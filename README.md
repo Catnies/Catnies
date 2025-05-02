@@ -6,7 +6,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Catnies/Catnies/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catnies&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![kotlin](https://img.shields.io/badge/kotlin-151623?style=for-the-badge&logo=kotlin&logoColor=00FEC5)](https://kotlinlang.org/) 
+[![java](https://img.shields.io/badge/java-151623?style=for-the-badge&logo=openjdk&logoColor=00FEC5)](https://openjdk.org/) 
 
 <!--
 **Catnies/Catnies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
