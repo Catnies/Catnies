@@ -2,7 +2,7 @@
 
 - 💻 Back-End Developer in Training
 - ☕️ Crafting code with Java & Kotlin | Exploring C++ and Python
-- 🎬 Tech content creator on Bilibili
+- 🎬 Content creator on Bilibili
 - 📚 Constantly leveling up through open-source projects
 - ⚙️ Interested in system design and high-performance computing
 
