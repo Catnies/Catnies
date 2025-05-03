@@ -11,7 +11,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catnies&layout=donut&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
  
 I am a noob, I am still learning.     
-My major languages are Java and Kotlin. may Chinese and Japanese also.  
+My major languages are Java and Kotlin. emmm... Chinese and Japanese also.  
 
 | Item | Infomation |
 | ---- | ---- |
