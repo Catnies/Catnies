@@ -18,7 +18,7 @@ My major languages are Java and Kotlin. emmm... Chinese and Japanese also..
 | Minecraft | JE: `Catnies`, BE: `Catnies` |
 | Discord | catnies |
 | QQ | [1286071831](http://wpa.qq.com/msgrd?v=3&uin=1286071831&site=qq&menu=yes) |
-| Email | catnies@outlook.com) |
+| Email | catnies@outlook.com |
 | Bilibili | [Catnies](https://space.bilibili.com/22876644) |
 
 
