@@ -2,7 +2,6 @@
 
 - 💻 Back-End Developer in Training
 - ☕️ Crafting code with Java & Kotlin | Exploring C++ and Python
-- 🎬 Content creator on Bilibili
 - 📚 Constantly leveling up through open-source projects
 - ⚙️ Interested in system design and high-performance computing
 
@@ -17,9 +16,7 @@ My major languages are Java and Kotlin. emmm... Chinese and Japanese also..
 | ---- | ---- |
 | Minecraft | JE: `Catnies`, BE: `Catnies` |
 | Discord | catnies |
-| QQ | [1286071831](http://wpa.qq.com/msgrd?v=3&uin=1286071831&site=qq&menu=yes) |
 | Email | catnies@outlook.com |
-| Bilibili | [Catnies](https://space.bilibili.com/22876644) |
 
 
 <picture>
